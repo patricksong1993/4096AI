@@ -1,4 +1,4 @@
-@import url(fonts/clear-sans.css);
+﻿@import url(fonts/clear-sans.css);
 /* line 21, main.scss */
 html, body {
   margin: 0;
@@ -956,7 +956,7 @@ hr {
   border-radius: 3px;
   padding: 0 20px;
   text-decoration: none;
-  color: #f9f6f2;
+  color: #737373;
   height: 40px;
   line-height: 42px;
   cursor: pointer;
