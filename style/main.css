@@ -953,7 +953,7 @@ hr {
   margin-left: 0px;
   display: inline-block;
   background: #FFF478;
-  border-radius: 3px;
+  border-radius: 10px;
   padding: 0 20px;
   text-decoration: none;
   color: #737373;
@@ -966,17 +966,19 @@ hr {
 
 .share {
   position: relative;
-  margin-left: 2px;
+  margin-top: 5px;
+  margin-left: 0px;
   display: inline-block;
   background: #DCB5FF;
-  border-radius: 0px;
-  padding: 0 2px;
+  border-radius: 10px;
+  padding: 0 20px;
   text-decoration: none;
-  color: white;
-  height: 20px;
-  line-height: 20px;
-  cursor: pointer; 
-  font-size: 13px;}
+  height: 40px;
+  line-height: 42px;
+  cursor: pointer;
+  font-size: 20px;
+  font-family: STXihei;
+  }
 
 .links {
   text-align: center;
